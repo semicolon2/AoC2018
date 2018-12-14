@@ -1,0 +1,3 @@
+1. sort timestamps
+2. find total sleep time of each guard
+3. find most common sleep minute of chosen guard
